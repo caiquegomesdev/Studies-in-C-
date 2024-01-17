@@ -1,0 +1,14 @@
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net7.0\ExercicioFixacaoMatrizes.exe
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net7.0\ExercicioFixacaoMatrizes.deps.json
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net7.0\ExercicioFixacaoMatrizes.runtimeconfig.json
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net7.0\ExercicioFixacaoMatrizes.dll
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\bin\Debug\net7.0\ExercicioFixacaoMatrizes.pdb
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ExercicioFixacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ExercicioFixacaoMatrizes.AssemblyInfoInputs.cache
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ExercicioFixacaoMatrizes.AssemblyInfo.cs
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ExercicioFixacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ExercicioFixacaoMatrizes.dll
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\refint\ExercicioFixacaoMatrizes.dll
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ExercicioFixacaoMatrizes.pdb
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ExercicioFixacaoMatrizes.genruntimeconfig.cache
+C:\Users\Gomes\Desktop\c#\ExercicioFixacaoMatrizes\ExercicioFixacaoMatrizes\obj\Debug\net7.0\ref\ExercicioFixacaoMatrizes.dll

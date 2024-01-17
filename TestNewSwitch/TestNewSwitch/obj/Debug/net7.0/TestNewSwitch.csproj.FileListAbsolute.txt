@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\bin\Debug\net7.0\TestNewSwitch.exe
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\bin\Debug\net7.0\TestNewSwitch.deps.json
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\bin\Debug\net7.0\TestNewSwitch.runtimeconfig.json
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\bin\Debug\net7.0\TestNewSwitch.dll
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\bin\Debug\net7.0\TestNewSwitch.pdb
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\TestNewSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\TestNewSwitch.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\TestNewSwitch.AssemblyInfo.cs
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\TestNewSwitch.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\TestNewSwitch.dll
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\refint\TestNewSwitch.dll
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\TestNewSwitch.pdb
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\TestNewSwitch.genruntimeconfig.cache
+D:\1-MyMind\c#\TestNewSwitch\TestNewSwitch\obj\Debug\net7.0\ref\TestNewSwitch.dll

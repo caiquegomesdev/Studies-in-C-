@@ -1,0 +1,14 @@
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\bin\Debug\net7.0\ExercMembrosStaticos.exe
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\bin\Debug\net7.0\ExercMembrosStaticos.deps.json
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\bin\Debug\net7.0\ExercMembrosStaticos.runtimeconfig.json
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\bin\Debug\net7.0\ExercMembrosStaticos.dll
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\bin\Debug\net7.0\ExercMembrosStaticos.pdb
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ExercMembrosStaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ExercMembrosStaticos.AssemblyInfoInputs.cache
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ExercMembrosStaticos.AssemblyInfo.cs
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ExercMembrosStaticos.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ExercMembrosStaticos.dll
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\refint\ExercMembrosStaticos.dll
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ExercMembrosStaticos.pdb
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ExercMembrosStaticos.genruntimeconfig.cache
+C:\Users\Gomes\Desktop\c#\ExercMembrosStaticos\ExercMembrosStaticos\obj\Debug\net7.0\ref\ExercMembrosStaticos.dll

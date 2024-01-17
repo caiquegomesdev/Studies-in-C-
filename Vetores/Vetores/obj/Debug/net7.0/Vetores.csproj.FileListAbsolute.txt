@@ -1,0 +1,14 @@
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\bin\Debug\net7.0\Vetores.exe
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\bin\Debug\net7.0\Vetores.deps.json
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\bin\Debug\net7.0\Vetores.runtimeconfig.json
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\bin\Debug\net7.0\Vetores.dll
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\bin\Debug\net7.0\Vetores.pdb
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfoInputs.cache
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfo.cs
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\Vetores.dll
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\refint\Vetores.dll
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\Vetores.pdb
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\Vetores.genruntimeconfig.cache
+C:\Users\Gomes\Desktop\c#\Vetores\Vetores\obj\Debug\net7.0\ref\Vetores.dll

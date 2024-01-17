@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\bin\Debug\net8.0\ExercicioResEnum01.exe
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\bin\Debug\net8.0\ExercicioResEnum01.deps.json
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\bin\Debug\net8.0\ExercicioResEnum01.runtimeconfig.json
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\bin\Debug\net8.0\ExercicioResEnum01.dll
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\bin\Debug\net8.0\ExercicioResEnum01.pdb
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ExercicioResEnum01.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ExercicioResEnum01.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ExercicioResEnum01.AssemblyInfo.cs
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ExercicioResEnum01.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ExercicioResEnum01.dll
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\refint\ExercicioResEnum01.dll
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ExercicioResEnum01.pdb
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ExercicioResEnum01.genruntimeconfig.cache
+D:\1-MyMind\c#\ExercicioResEnum01\ExercicioResEnum01\obj\Debug\net8.0\ref\ExercicioResEnum01.dll

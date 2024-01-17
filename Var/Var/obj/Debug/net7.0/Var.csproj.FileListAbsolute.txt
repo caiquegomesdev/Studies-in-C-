@@ -1,0 +1,14 @@
+C:\Users\Gomes\source\repos\Var\Var\bin\Debug\net7.0\Var.exe
+C:\Users\Gomes\source\repos\Var\Var\bin\Debug\net7.0\Var.deps.json
+C:\Users\Gomes\source\repos\Var\Var\bin\Debug\net7.0\Var.runtimeconfig.json
+C:\Users\Gomes\source\repos\Var\Var\bin\Debug\net7.0\Var.dll
+C:\Users\Gomes\source\repos\Var\Var\bin\Debug\net7.0\Var.pdb
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\Var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\Var.AssemblyInfoInputs.cache
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\Var.AssemblyInfo.cs
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\Var.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\Var.dll
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\refint\Var.dll
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\Var.pdb
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\Var.genruntimeconfig.cache
+C:\Users\Gomes\source\repos\Var\Var\obj\Debug\net7.0\ref\Var.dll

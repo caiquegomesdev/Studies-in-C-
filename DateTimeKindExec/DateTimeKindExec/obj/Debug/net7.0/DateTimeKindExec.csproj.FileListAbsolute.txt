@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\bin\Debug\net7.0\DateTimeKindExec.exe
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\bin\Debug\net7.0\DateTimeKindExec.deps.json
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\bin\Debug\net7.0\DateTimeKindExec.runtimeconfig.json
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\bin\Debug\net7.0\DateTimeKindExec.dll
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\bin\Debug\net7.0\DateTimeKindExec.pdb
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\DateTimeKindExec.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\DateTimeKindExec.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\DateTimeKindExec.AssemblyInfo.cs
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\DateTimeKindExec.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\DateTimeKindExec.dll
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\refint\DateTimeKindExec.dll
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\DateTimeKindExec.pdb
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\DateTimeKindExec.genruntimeconfig.cache
+D:\1-MyMind\c#\DateTimeKindExec\DateTimeKindExec\obj\Debug\net7.0\ref\DateTimeKindExec.dll

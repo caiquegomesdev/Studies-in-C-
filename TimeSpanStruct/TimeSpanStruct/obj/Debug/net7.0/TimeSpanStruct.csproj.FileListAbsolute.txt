@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\bin\Debug\net7.0\TimeSpanStruct.exe
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\bin\Debug\net7.0\TimeSpanStruct.deps.json
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\bin\Debug\net7.0\TimeSpanStruct.runtimeconfig.json
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\bin\Debug\net7.0\TimeSpanStruct.dll
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\bin\Debug\net7.0\TimeSpanStruct.pdb
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\TimeSpanStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\TimeSpanStruct.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\TimeSpanStruct.AssemblyInfo.cs
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\TimeSpanStruct.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\TimeSpanStruct.dll
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\refint\TimeSpanStruct.dll
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\TimeSpanStruct.pdb
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\TimeSpanStruct.genruntimeconfig.cache
+D:\1-MyMind\c#\TimeSpanStruct\TimeSpanStruct\obj\Debug\net7.0\ref\TimeSpanStruct.dll

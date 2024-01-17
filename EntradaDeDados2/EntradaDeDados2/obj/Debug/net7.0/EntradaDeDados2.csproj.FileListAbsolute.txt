@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\EntradaDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\EntradaDeDados2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\EntradaDeDados2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\EntradaDeDados2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\bin\Debug\net7.0\EntradaDeDados2.exe
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\bin\Debug\net7.0\EntradaDeDados2.deps.json
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\bin\Debug\net7.0\EntradaDeDados2.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\bin\Debug\net7.0\EntradaDeDados2.dll
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\bin\Debug\net7.0\EntradaDeDados2.pdb
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\EntradaDeDados2.dll
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\refint\EntradaDeDados2.dll
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\EntradaDeDados2.pdb
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\EntradaDeDados2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\EntradaDeDados2\EntradaDeDados2\obj\Debug\net7.0\ref\EntradaDeDados2.dll

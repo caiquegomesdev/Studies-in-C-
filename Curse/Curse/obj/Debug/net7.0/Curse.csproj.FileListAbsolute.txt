@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\Curse\Curse\bin\Debug\net7.0\Curse.exe
+C:\Users\Administrator\Desktop\c#\Curse\Curse\bin\Debug\net7.0\Curse.deps.json
+C:\Users\Administrator\Desktop\c#\Curse\Curse\bin\Debug\net7.0\Curse.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\Curse\Curse\bin\Debug\net7.0\Curse.dll
+C:\Users\Administrator\Desktop\c#\Curse\Curse\bin\Debug\net7.0\Curse.pdb
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\Curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\Curse.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\Curse.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\Curse.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\Curse.dll
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\refint\Curse.dll
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\Curse.pdb
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\Curse.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\Curse\Curse\obj\Debug\net7.0\ref\Curse.dll

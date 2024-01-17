@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ConversaoImplicitaECasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ConversaoImplicitaECasting.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ConversaoImplicitaECasting.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ConversaoImplicitaECasting.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net7.0\ConversaoImplicitaECasting.exe
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net7.0\ConversaoImplicitaECasting.deps.json
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net7.0\ConversaoImplicitaECasting.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net7.0\ConversaoImplicitaECasting.dll
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\bin\Debug\net7.0\ConversaoImplicitaECasting.pdb
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ConversaoImplicitaECasting.dll
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\refint\ConversaoImplicitaECasting.dll
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ConversaoImplicitaECasting.pdb
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ConversaoImplicitaECasting.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\ConversaoImplicitaECasting\ConversaoImplicitaECasting\obj\Debug\net7.0\ref\ConversaoImplicitaECasting.dll

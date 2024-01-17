@@ -1,0 +1,14 @@
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\bin\Debug\net7.0\ExecFixacaoListas.exe
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\bin\Debug\net7.0\ExecFixacaoListas.deps.json
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\bin\Debug\net7.0\ExecFixacaoListas.runtimeconfig.json
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\bin\Debug\net7.0\ExecFixacaoListas.dll
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\bin\Debug\net7.0\ExecFixacaoListas.pdb
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ExecFixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ExecFixacaoListas.AssemblyInfoInputs.cache
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ExecFixacaoListas.AssemblyInfo.cs
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ExecFixacaoListas.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ExecFixacaoListas.dll
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\refint\ExecFixacaoListas.dll
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ExecFixacaoListas.pdb
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ExecFixacaoListas.genruntimeconfig.cache
+C:\Users\Gomes\Desktop\c#\ExecFixacaoListas\ExecFixacaoListas\obj\Debug\net7.0\ref\ExecFixacaoListas.dll

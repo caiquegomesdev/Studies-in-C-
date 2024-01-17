@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\bin\Debug\net7.0\DateTimeOperacoes.exe
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\bin\Debug\net7.0\DateTimeOperacoes.deps.json
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\bin\Debug\net7.0\DateTimeOperacoes.runtimeconfig.json
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\bin\Debug\net7.0\DateTimeOperacoes.dll
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\bin\Debug\net7.0\DateTimeOperacoes.pdb
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\DateTimeOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\DateTimeOperacoes.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\DateTimeOperacoes.AssemblyInfo.cs
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\DateTimeOperacoes.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\DateTimeOperacoes.dll
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\refint\DateTimeOperacoes.dll
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\DateTimeOperacoes.pdb
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\DateTimeOperacoes.genruntimeconfig.cache
+D:\1-MyMind\c#\DateTimeOperacoes\DateTimeOperacoes\obj\Debug\net7.0\ref\DateTimeOperacoes.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.exe
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.deps.json
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.dll
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\bin\Debug\net7.0\OperadoresLogicos.pdb
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.dll
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\refint\OperadoresLogicos.dll
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.pdb
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\OperadoresLogicos\OperadoresLogicos\obj\Debug\net7.0\ref\OperadoresLogicos.dll

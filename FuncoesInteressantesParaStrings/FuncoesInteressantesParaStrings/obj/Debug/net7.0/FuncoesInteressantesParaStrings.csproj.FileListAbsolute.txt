@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\bin\Debug\net7.0\FuncoesInteressantesParaStrings.exe
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\bin\Debug\net7.0\FuncoesInteressantesParaStrings.deps.json
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\bin\Debug\net7.0\FuncoesInteressantesParaStrings.runtimeconfig.json
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\bin\Debug\net7.0\FuncoesInteressantesParaStrings.dll
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\bin\Debug\net7.0\FuncoesInteressantesParaStrings.pdb
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\FuncoesInteressantesParaStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\FuncoesInteressantesParaStrings.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\FuncoesInteressantesParaStrings.AssemblyInfo.cs
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\FuncoesInteressantesParaStrings.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\FuncoesInteressantesParaStrings.dll
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\refint\FuncoesInteressantesParaStrings.dll
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\FuncoesInteressantesParaStrings.pdb
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\FuncoesInteressantesParaStrings.genruntimeconfig.cache
+D:\1-MyMind\c#\FuncoesInteressantesParaStrings\FuncoesInteressantesParaStrings\obj\Debug\net7.0\ref\FuncoesInteressantesParaStrings.dll

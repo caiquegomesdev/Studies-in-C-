@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\bin\Debug\net7.0\CondicaoTernaria.exe
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\bin\Debug\net7.0\CondicaoTernaria.deps.json
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\bin\Debug\net7.0\CondicaoTernaria.runtimeconfig.json
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\bin\Debug\net7.0\CondicaoTernaria.dll
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\bin\Debug\net7.0\CondicaoTernaria.pdb
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\CondicaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\CondicaoTernaria.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\CondicaoTernaria.AssemblyInfo.cs
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\CondicaoTernaria.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\CondicaoTernaria.dll
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\refint\CondicaoTernaria.dll
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\CondicaoTernaria.pdb
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\CondicaoTernaria.genruntimeconfig.cache
+D:\1-MyMind\c#\CondicaoTernaria\CondicaoTernaria\obj\Debug\net7.0\ref\CondicaoTernaria.dll

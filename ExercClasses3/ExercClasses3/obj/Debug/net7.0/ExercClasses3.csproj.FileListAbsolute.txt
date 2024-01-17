@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\bin\Debug\net7.0\ExercClasses3.exe
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\bin\Debug\net7.0\ExercClasses3.deps.json
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\bin\Debug\net7.0\ExercClasses3.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\bin\Debug\net7.0\ExercClasses3.dll
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\bin\Debug\net7.0\ExercClasses3.pdb
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ExercClasses3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ExercClasses3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ExercClasses3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ExercClasses3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ExercClasses3.dll
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\refint\ExercClasses3.dll
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ExercClasses3.pdb
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ExercClasses3.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\ExercClasses3\ExercClasses3\obj\Debug\net7.0\ref\ExercClasses3.dll

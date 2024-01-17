@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\bin\Debug\net7.0\OperadoresDeAtribuicoes.exe
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\bin\Debug\net7.0\OperadoresDeAtribuicoes.deps.json
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\bin\Debug\net7.0\OperadoresDeAtribuicoes.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\bin\Debug\net7.0\OperadoresDeAtribuicoes.dll
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\bin\Debug\net7.0\OperadoresDeAtribuicoes.pdb
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\OperadoresDeAtribuicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\OperadoresDeAtribuicoes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\OperadoresDeAtribuicoes.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\OperadoresDeAtribuicoes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\OperadoresDeAtribuicoes.dll
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\refint\OperadoresDeAtribuicoes.dll
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\OperadoresDeAtribuicoes.pdb
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\OperadoresDeAtribuicoes.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\OperadoresDeAtribuicoes\OperadoresDeAtribuicoes\obj\Debug\net7.0\ref\OperadoresDeAtribuicoes.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\bin\Debug\net7.0\DebuggingInVS.exe
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\bin\Debug\net7.0\DebuggingInVS.deps.json
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\bin\Debug\net7.0\DebuggingInVS.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\bin\Debug\net7.0\DebuggingInVS.dll
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\bin\Debug\net7.0\DebuggingInVS.pdb
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\DebuggingInVS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\DebuggingInVS.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\DebuggingInVS.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\DebuggingInVS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\DebuggingInVS.dll
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\refint\DebuggingInVS.dll
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\DebuggingInVS.pdb
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\DebuggingInVS.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\DebuggingInVS\DebuggingInVS\obj\Debug\net7.0\ref\DebuggingInVS.dll

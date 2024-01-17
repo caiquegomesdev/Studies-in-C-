@@ -1,0 +1,14 @@
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\bin\Debug\net7.0\Nullable.exe
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\bin\Debug\net7.0\Nullable.deps.json
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\bin\Debug\net7.0\Nullable.runtimeconfig.json
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\bin\Debug\net7.0\Nullable.dll
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\bin\Debug\net7.0\Nullable.pdb
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\Nullable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfoInputs.cache
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\Nullable.AssemblyInfo.cs
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\Nullable.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\Nullable.dll
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\refint\Nullable.dll
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\Nullable.pdb
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\Nullable.genruntimeconfig.cache
+C:\Users\Gomes\Desktop\c#\Nullable\Nullable\obj\Debug\net7.0\ref\Nullable.dll

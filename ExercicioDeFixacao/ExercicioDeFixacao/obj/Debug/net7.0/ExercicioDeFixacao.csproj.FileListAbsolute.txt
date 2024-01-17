@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.exe
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.deps.json
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.dll
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\net7.0\ExercicioDeFixacao.pdb
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.dll
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\refint\ExercicioDeFixacao.dll
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.pdb
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ExercicioDeFixacao.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\net7.0\ref\ExercicioDeFixacao.dll

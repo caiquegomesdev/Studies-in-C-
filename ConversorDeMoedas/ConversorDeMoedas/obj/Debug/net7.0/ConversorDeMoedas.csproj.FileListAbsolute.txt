@@ -1,0 +1,14 @@
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.exe
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.deps.json
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.runtimeconfig.json
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.dll
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net7.0\ConversorDeMoedas.pdb
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.dll
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\refint\ConversorDeMoedas.dll
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.pdb
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ConversorDeMoedas.genruntimeconfig.cache
+C:\Users\Gomes\Desktop\c#\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net7.0\ref\ConversorDeMoedas.dll

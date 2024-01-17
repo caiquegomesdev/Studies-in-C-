@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\bin\Debug\net7.0\PooIntroII.exe
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\bin\Debug\net7.0\PooIntroII.deps.json
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\bin\Debug\net7.0\PooIntroII.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\bin\Debug\net7.0\PooIntroII.dll
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\bin\Debug\net7.0\PooIntroII.pdb
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\PooIntroII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\PooIntroII.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\PooIntroII.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\PooIntroII.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\PooIntroII.dll
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\refint\PooIntroII.dll
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\PooIntroII.pdb
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\PooIntroII.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\PooIntroII\PooIntroII\obj\Debug\net7.0\ref\PooIntroII.dll

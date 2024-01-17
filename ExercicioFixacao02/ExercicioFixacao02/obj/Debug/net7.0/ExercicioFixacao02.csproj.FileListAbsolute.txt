@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\net7.0\ExercicioFixacao02.exe
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\net7.0\ExercicioFixacao02.deps.json
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\net7.0\ExercicioFixacao02.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\net7.0\ExercicioFixacao02.dll
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\bin\Debug\net7.0\ExercicioFixacao02.pdb
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ExercicioFixacao02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ExercicioFixacao02.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ExercicioFixacao02.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ExercicioFixacao02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ExercicioFixacao02.dll
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\refint\ExercicioFixacao02.dll
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ExercicioFixacao02.pdb
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ExercicioFixacao02.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\ExercicioFixacao02\ExercicioFixacao02\obj\Debug\net7.0\ref\ExercicioFixacao02.dll

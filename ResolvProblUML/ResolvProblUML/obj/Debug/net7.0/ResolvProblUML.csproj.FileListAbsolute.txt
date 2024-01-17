@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\bin\Debug\net7.0\ResolvProblUML.exe
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\bin\Debug\net7.0\ResolvProblUML.deps.json
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\bin\Debug\net7.0\ResolvProblUML.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\bin\Debug\net7.0\ResolvProblUML.dll
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\bin\Debug\net7.0\ResolvProblUML.pdb
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ResolvProblUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ResolvProblUML.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ResolvProblUML.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ResolvProblUML.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ResolvProblUML.dll
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\refint\ResolvProblUML.dll
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ResolvProblUML.pdb
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ResolvProblUML.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\ResolvProblUML\ResolvProblUML\obj\Debug\net7.0\ref\ResolvProblUML.dll

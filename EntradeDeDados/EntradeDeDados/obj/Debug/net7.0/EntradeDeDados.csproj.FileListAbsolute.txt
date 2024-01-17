@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\bin\Debug\net7.0\EntradeDeDados.exe
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\bin\Debug\net7.0\EntradeDeDados.deps.json
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\bin\Debug\net7.0\EntradeDeDados.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\bin\Debug\net7.0\EntradeDeDados.dll
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\bin\Debug\net7.0\EntradeDeDados.pdb
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\EntradeDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\EntradeDeDados.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\EntradeDeDados.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\EntradeDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\EntradeDeDados.dll
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\refint\EntradeDeDados.dll
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\EntradeDeDados.pdb
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\EntradeDeDados.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\EntradeDeDados\EntradeDeDados\obj\Debug\net7.0\ref\EntradeDeDados.dll

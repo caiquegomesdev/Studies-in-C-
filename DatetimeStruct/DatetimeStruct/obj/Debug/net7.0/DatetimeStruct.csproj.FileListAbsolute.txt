@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\bin\Debug\net7.0\DatetimeStruct.exe
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\bin\Debug\net7.0\DatetimeStruct.deps.json
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\bin\Debug\net7.0\DatetimeStruct.runtimeconfig.json
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\bin\Debug\net7.0\DatetimeStruct.dll
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\bin\Debug\net7.0\DatetimeStruct.pdb
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\DatetimeStruct.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\DatetimeStruct.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\DatetimeStruct.AssemblyInfo.cs
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\DatetimeStruct.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\DatetimeStruct.dll
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\refint\DatetimeStruct.dll
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\DatetimeStruct.pdb
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\DatetimeStruct.genruntimeconfig.cache
+D:\1-MyMind\c#\DatetimeStruct\DatetimeStruct\obj\Debug\net7.0\ref\DatetimeStruct.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\bin\Debug\net7.0\Aritimeticos.exe
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\bin\Debug\net7.0\Aritimeticos.deps.json
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\bin\Debug\net7.0\Aritimeticos.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\bin\Debug\net7.0\Aritimeticos.dll
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\bin\Debug\net7.0\Aritimeticos.pdb
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\Aritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\Aritimeticos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\Aritimeticos.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\Aritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\Aritimeticos.dll
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\refint\Aritimeticos.dll
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\Aritimeticos.pdb
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\Aritimeticos.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\Aritimeticos\Aritimeticos\obj\Debug\net7.0\ref\Aritimeticos.dll

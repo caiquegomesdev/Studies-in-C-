@@ -1,0 +1,14 @@
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\TimeSpanOperacoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\TimeSpanOperacoes.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\TimeSpanOperacoes.AssemblyInfo.cs
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\TimeSpanOperacoes.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\bin\Debug\net7.0\TimeSpanOperacoes.exe
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\bin\Debug\net7.0\TimeSpanOperacoes.deps.json
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\bin\Debug\net7.0\TimeSpanOperacoes.runtimeconfig.json
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\bin\Debug\net7.0\TimeSpanOperacoes.dll
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\bin\Debug\net7.0\TimeSpanOperacoes.pdb
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\TimeSpanOperacoes.dll
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\refint\TimeSpanOperacoes.dll
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\TimeSpanOperacoes.pdb
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\TimeSpanOperacoes.genruntimeconfig.cache
+D:\1-MyMind\c#\TimeSpanOperacoes\TimeSpanOperacoes\obj\Debug\net7.0\ref\TimeSpanOperacoes.dll

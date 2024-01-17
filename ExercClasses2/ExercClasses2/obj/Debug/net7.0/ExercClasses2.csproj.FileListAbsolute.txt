@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\bin\Debug\net7.0\ExercClasses2.exe
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\bin\Debug\net7.0\ExercClasses2.deps.json
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\bin\Debug\net7.0\ExercClasses2.runtimeconfig.json
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\bin\Debug\net7.0\ExercClasses2.dll
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\bin\Debug\net7.0\ExercClasses2.pdb
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ExercClasses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ExercClasses2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ExercClasses2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ExercClasses2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ExercClasses2.dll
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\refint\ExercClasses2.dll
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ExercClasses2.pdb
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ExercClasses2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\c#\ExercClasses2\ExercClasses2\obj\Debug\net7.0\ref\ExercClasses2.dll

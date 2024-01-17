@@ -1,0 +1,14 @@
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\bin\Debug\net7.0\Foreach.exe
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\bin\Debug\net7.0\Foreach.deps.json
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\bin\Debug\net7.0\Foreach.runtimeconfig.json
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\bin\Debug\net7.0\Foreach.dll
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\bin\Debug\net7.0\Foreach.pdb
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfoInputs.cache
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\Foreach.AssemblyInfo.cs
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\Foreach.dll
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\refint\Foreach.dll
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\Foreach.pdb
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\Foreach.genruntimeconfig.cache
+C:\Users\Gomes\Desktop\c#\Foreach\Foreach\obj\Debug\net7.0\ref\Foreach.dll
