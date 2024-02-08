@@ -1,0 +1,15 @@
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\bin\Debug\net8.0\UpcastingEDowncasting.exe
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\bin\Debug\net8.0\UpcastingEDowncasting.deps.json
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\bin\Debug\net8.0\UpcastingEDowncasting.runtimeconfig.json
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\bin\Debug\net8.0\UpcastingEDowncasting.dll
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\bin\Debug\net8.0\UpcastingEDowncasting.pdb
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.AssemblyInfo.cs
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.sourcelink.json
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.dll
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\refint\UpcastingEDowncasting.dll
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.pdb
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\UpcastingEDowncasting.genruntimeconfig.cache
+D:\1-MyMind\c#\UpcastingEDowncasting\UpcastingEDowncasting\obj\Debug\net8.0\ref\UpcastingEDowncasting.dll
