@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SobreposicaoPalavrasVirtualOverrideEBase", "SobreposicaoPalavrasVirtualOverrideEBase\SobreposicaoPalavrasVirtualOverrideEBase.csproj", "{5B19C255-E9F6-47C3-B303-51469898DFAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B19C255-E9F6-47C3-B303-51469898DFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B19C255-E9F6-47C3-B303-51469898DFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B19C255-E9F6-47C3-B303-51469898DFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B19C255-E9F6-47C3-B303-51469898DFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF74259-E270-4C58-AD4F-A4E037E7429E}
+	EndGlobalSection
+EndGlobal
