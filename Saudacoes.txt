@@ -1,3 +1,11 @@
+Hello World!
+Here are my studies regarding the C# language
+@CaiqueGomes
+2k..
+
+=================================================
+"pt-br"
 Ola MUNDO!
+Aqui estao meus estudos referente a linguagem C#
 @CaiqueGomes
 2k..
