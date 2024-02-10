@@ -1,0 +1,15 @@
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.exe
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.deps.json
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.runtimeconfig.json
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.dll
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\bin\Debug\net8.0\Polimorfismo.pdb
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.AssemblyInfo.cs
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.sourcelink.json
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.dll
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\refint\Polimorfismo.dll
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.pdb
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\Polimorfismo.genruntimeconfig.cache
+D:\1-MyMind\c#\Polimorfismo\Polimorfismo\obj\Debug\net8.0\ref\Polimorfismo.dll
