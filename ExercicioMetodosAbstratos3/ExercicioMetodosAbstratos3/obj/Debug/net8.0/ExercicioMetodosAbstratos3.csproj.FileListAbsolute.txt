@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\bin\Debug\net8.0\ExercicioMetodosAbstratos3.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\bin\Debug\net8.0\ExercicioMetodosAbstratos3.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\bin\Debug\net8.0\ExercicioMetodosAbstratos3.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\bin\Debug\net8.0\ExercicioMetodosAbstratos3.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\bin\Debug\net8.0\ExercicioMetodosAbstratos3.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ExercicioMetodosAbstratos3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ExercicioMetodosAbstratos3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ExercicioMetodosAbstratos3.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ExercicioMetodosAbstratos3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ExercicioMetodosAbstratos3.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\refint\ExercicioMetodosAbstratos3.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ExercicioMetodosAbstratos3.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ExercicioMetodosAbstratos3.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioMetodosAbstratos3\ExercicioMetodosAbstratos3\obj\Debug\net8.0\ref\ExercicioMetodosAbstratos3.dll
