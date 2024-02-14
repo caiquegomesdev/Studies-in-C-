@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net8.0\EstruturaTryCatch.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net8.0\EstruturaTryCatch.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net8.0\EstruturaTryCatch.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net8.0\EstruturaTryCatch.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\bin\Debug\net8.0\EstruturaTryCatch.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\refint\EstruturaTryCatch.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\EstruturaTryCatch.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\EstruturaTryCatch\EstruturaTryCatch\obj\Debug\net8.0\ref\EstruturaTryCatch.dll
