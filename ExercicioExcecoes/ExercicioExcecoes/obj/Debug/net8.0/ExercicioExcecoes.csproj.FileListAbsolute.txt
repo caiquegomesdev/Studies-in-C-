@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\bin\Debug\net8.0\ExercicioExcecoes.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\refint\ExercicioExcecoes.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ExercicioExcecoes.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioExcecoes\ExercicioExcecoes\obj\Debug\net8.0\ref\ExercicioExcecoes.dll
