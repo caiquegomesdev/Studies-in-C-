@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileStreamEStreamReader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2cd12365944fcc5c22bf1ffe7c5bda03a50e807f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351084405038ccbdbfaff95bd5b713069a4db58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileStreamEStreamReader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileStreamEStreamReader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
