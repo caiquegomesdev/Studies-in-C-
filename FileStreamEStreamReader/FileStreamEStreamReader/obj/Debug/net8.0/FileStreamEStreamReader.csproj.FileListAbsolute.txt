@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net8.0\FileStreamEStreamReader.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net8.0\FileStreamEStreamReader.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net8.0\FileStreamEStreamReader.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net8.0\FileStreamEStreamReader.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\net8.0\FileStreamEStreamReader.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\refint\FileStreamEStreamReader.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\FileStreamEStreamReader.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\net8.0\ref\FileStreamEStreamReader.dll
