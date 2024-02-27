@@ -1,0 +1,8 @@
+﻿namespace SolucaoSEMInterface.Services
+{
+    interface ITaxService
+    {
+
+        double Tax(double amount);
+    }
+}
