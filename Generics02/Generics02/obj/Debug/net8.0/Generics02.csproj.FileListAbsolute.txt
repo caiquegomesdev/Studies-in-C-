@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\bin\Debug\net8.0\Generics02.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\bin\Debug\net8.0\Generics02.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\bin\Debug\net8.0\Generics02.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\bin\Debug\net8.0\Generics02.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\bin\Debug\net8.0\Generics02.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\refint\Generics02.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\Generics02.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Generics02\Generics02\obj\Debug\net8.0\ref\Generics02.dll
