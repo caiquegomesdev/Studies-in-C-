@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\solucaoseminterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\solucaoseminterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\solucaoseminterface\\solucaoseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7197C077-9ACB-4335-9549-34C2E7C9B40C}|SolucaoSEMInterface\\SolucaoSEMInterface.csproj|solutionrelative:solucaoseminterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\Services\\RentalService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "SolucaoSEMInterface\\Services\\RentalService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:49:51.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "SolucaoSEMInterface\\Services\\ITaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:49:06.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "SolucaoSEMInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:48:07.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolucaoSEMInterface.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\SolucaoSEMInterface.csproj",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\SolucaoSEMInterface.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\SolucaoSEMInterface.csproj",
+              "RelativeToolTip": "SolucaoSEMInterface\\SolucaoSEMInterface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-26T23:47:14.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "SolucaoSEMInterface\\Entities\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:46:43.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\Entities\\Invoice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "SolucaoSEMInterface\\Entities\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:45:40.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\Entities\\CarRental.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "SolucaoSEMInterface\\Entities\\CarRental.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:45:10.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Program.cs",
+              "RelativeDocumentMoniker": "SolucaoSEMInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\SolucaoSEMInterface\\SolucaoSEMInterface\\Program.cs",
+              "RelativeToolTip": "SolucaoSEMInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T23:43:01.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

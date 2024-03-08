@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Listas
-build_property.ProjectDir = D:\29-10-2023\c#\Listas\Listas\
+build_property.ProjectDir = C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\Listas\Listas\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExcecoesPersonalizadas01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB503C2B-E851-4BEB-AF17-3EE82ACA115B}|ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\excecoespersonalizadas01\\excecoespersonalizadas01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB503C2B-E851-4BEB-AF17-3EE82ACA115B}|ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01.csproj|solutionrelative:excecoespersonalizadas01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB503C2B-E851-4BEB-AF17-3EE82ACA115B}|ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\excecoespersonalizadas01\\excecoespersonalizadas01\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB503C2B-E851-4BEB-AF17-3EE82ACA115B}|ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01.csproj|solutionrelative:excecoespersonalizadas01\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadas01\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01\\Entities\\Reservation.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadas01\\Entities\\Reservation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T23:49:34.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01\\Program.cs",
+              "RelativeDocumentMoniker": "ExcecoesPersonalizadas01\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01\\Program.cs",
+              "RelativeToolTip": "ExcecoesPersonalizadas01\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCAAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T23:47:42.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

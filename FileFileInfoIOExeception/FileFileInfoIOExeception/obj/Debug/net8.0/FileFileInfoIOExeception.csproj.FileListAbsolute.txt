@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\bin\Debug\net8.0\FileFileInfoIOExeception.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\bin\Debug\net8.0\FileFileInfoIOExeception.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\bin\Debug\net8.0\FileFileInfoIOExeception.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\bin\Debug\net8.0\FileFileInfoIOExeception.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\bin\Debug\net8.0\FileFileInfoIOExeception.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\refint\FileFileInfoIOExeception.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\FileFileInfoIOExeception.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\FileFileInfoIOExeception\FileFileInfoIOExeception\obj\Debug\net8.0\ref\FileFileInfoIOExeception.dll

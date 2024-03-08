@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioDeFixacaoHerancaEPolimorfismo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e156ff6c56d62fb87e602ccd54f080b3be98afb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+351084405038ccbdbfaff95bd5b713069a4db58a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioDeFixacaoHerancaEPolimorfismo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioDeFixacaoHerancaEPolimorfismo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

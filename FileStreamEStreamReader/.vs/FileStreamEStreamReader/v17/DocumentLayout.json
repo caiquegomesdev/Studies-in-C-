@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\FileStreamEStreamReader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23978572-EFA4-4907-B4F0-C728F49D1A7F}|FileStreamEStreamReader\\FileStreamEStreamReader.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\filestreamestreamreader\\filestreamestreamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23978572-EFA4-4907-B4F0-C728F49D1A7F}|FileStreamEStreamReader\\FileStreamEStreamReader.csproj|solutionrelative:filestreamestreamreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\FileStreamEStreamReader\\FileStreamEStreamReader\\Program.cs",
+              "RelativeDocumentMoniker": "FileStreamEStreamReader\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\FileStreamEStreamReader\\FileStreamEStreamReader\\Program.cs",
+              "RelativeToolTip": "FileStreamEStreamReader\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T22:55:11.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

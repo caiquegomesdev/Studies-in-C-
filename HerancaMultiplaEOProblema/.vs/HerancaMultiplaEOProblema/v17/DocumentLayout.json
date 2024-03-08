@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\devices\\scanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\devices\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\devices\\iscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\devices\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\devices\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\devices\\combodevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|c:\\users\\administrator\\documents\\001-mymind\\studies-in-c--main\\herancamultiplaeoproblema\\herancamultiplaeoproblema\\herancamultiplaeoproblema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB2A8D37-2DDF-4D7B-B4C4-E83F5B7E637E}|HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj|solutionrelative:herancamultiplaeoproblema\\herancamultiplaeoproblema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scanner.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\Scanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\Devices\\Scanner.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\Scanner.cs",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\Devices\\Scanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:32:44.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Printer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\Printer.cs",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\Devices\\Printer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\Printer.cs",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\Devices\\Printer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:31:39.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IScanner.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\IScanner.cs",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\Devices\\IScanner.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\IScanner.cs",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\Devices\\IScanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:31:13.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\IPrinter.cs",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\Devices\\IPrinter.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\IPrinter.cs",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\Devices\\IPrinter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:30:24.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Device.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\Device.cs",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\Devices\\Device.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\Device.cs",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\Devices\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:29:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ComboDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\ComboDevice.cs",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\Devices\\ComboDevice.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Devices\\ComboDevice.cs",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\Devices\\ComboDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:28:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HerancaMultiplaEOProblema",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-29T23:27:39.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Program.cs",
+              "RelativeDocumentMoniker": "HerancaMultiplaEOProblema\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaMultiplaEOProblema\\HerancaMultiplaEOProblema\\Program.cs",
+              "RelativeToolTip": "HerancaMultiplaEOProblema\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:26:57.688Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

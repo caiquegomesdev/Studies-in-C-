@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExercClass01
-build_property.ProjectDir = D:\29-10-2023\c#\ExercClass01\ExercClass01\
+build_property.ProjectDir = C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercClass01\ExercClass01\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\bin\Debug\net8.0\ComoColecoesHashComparamIgualdade.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\bin\Debug\net8.0\ComoColecoesHashComparamIgualdade.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\bin\Debug\net8.0\ComoColecoesHashComparamIgualdade.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\bin\Debug\net8.0\ComoColecoesHashComparamIgualdade.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\bin\Debug\net8.0\ComoColecoesHashComparamIgualdade.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\refint\ComoColecoesHashComparamIgualdade.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ComoColecoesHashComparamIgualdade.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ComoColecoesHashComparamIgualdade\ComoColecoesHashComparamIgualdade\obj\Debug\net8.0\ref\ComoColecoesHashComparamIgualdade.dll
