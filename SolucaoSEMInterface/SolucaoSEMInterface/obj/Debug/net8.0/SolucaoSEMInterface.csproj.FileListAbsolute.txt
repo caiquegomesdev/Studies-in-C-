@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.AssemblyInfoInputs.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.AssemblyInfo.cs
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterfa
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\ref\SolucaoSEMInterface.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\bin\Debug\net8.0\SolucaoSEMInterface.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\bin\Debug\net8.0\SolucaoSEMInterface.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\bin\Debug\net8.0\SolucaoSEMInterface.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\bin\Debug\net8.0\SolucaoSEMInterface.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\bin\Debug\net8.0\SolucaoSEMInterface.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\refint\SolucaoSEMInterface.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\SolucaoSEMInterface.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\SolucaoSEMInterface\SolucaoSEMInterface\obj\Debug\net8.0\ref\SolucaoSEMInterface.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

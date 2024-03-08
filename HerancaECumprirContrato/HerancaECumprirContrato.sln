@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {C78EF66C-B9BD-4745-A125-D7154765A267}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaECumprirContrato", "HerancaECumprirContrato\HerancaECumprirContrato.csproj", "{0CE1DCB1-AA3C-4EE6-9EB3-12E857885A92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CE1DCB1-AA3C-4EE6-9EB3-12E857885A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE1DCB1-AA3C-4EE6-9EB3-12E857885A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE1DCB1-AA3C-4EE6-9EB3-12E857885A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE1DCB1-AA3C-4EE6-9EB3-12E857885A92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C78EF66C-B9BD-4745-A125-D7154765A267}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

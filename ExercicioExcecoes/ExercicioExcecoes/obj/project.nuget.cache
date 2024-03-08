@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "xZ4FAiiVI4AkhfccbVXGKtkTTBfHaJyzbBcWvO9m9NehOwhoA4uzu5TITzrVTb4cIUuP32b4CRgsCDoctRemMQ==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExercicioExcecoes\\ExercicioExcecoes\\ExercicioExcecoes.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "xZ4FAiiVI4AkhfccbVXGKtkTTBfHaJyzbBcWvO9m9NehOwhoA4uzu5TITzrVTb4cIUuP32b4CRgsCDoctRemMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExercicioExcecoes\\ExercicioExcecoes\\ExercicioExcecoes.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0
 }

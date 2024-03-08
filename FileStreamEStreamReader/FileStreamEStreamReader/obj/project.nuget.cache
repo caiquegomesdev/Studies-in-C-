@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "XzbVjIlmh8znwwziXZK0FMyq3b7Q2is6b3uvdKvcOatPzjnDT7AYOFe0ZhfTNFHvb9GBHQBR7baURycmb5n2mQ==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\FileStreamEStreamReader\\FileStreamEStreamReader\\FileStreamEStreamReader.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "XzbVjIlmh8znwwziXZK0FMyq3b7Q2is6b3uvdKvcOatPzjnDT7AYOFe0ZhfTNFHvb9GBHQBR7baURycmb5n2mQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\FileStreamEStreamReader\\FileStreamEStreamReader\\FileStreamEStreamReader.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {11B67357-692A-4B6A-A95D-558E702FA118}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoSEMInterface", "SolucaoSEMInterface\SolucaoSEMInterface.csproj", "{7197C077-9ACB-4335-9549-34C2E7C9B40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7197C077-9ACB-4335-9549-34C2E7C9B40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7197C077-9ACB-4335-9549-34C2E7C9B40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7197C077-9ACB-4335-9549-34C2E7C9B40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7197C077-9ACB-4335-9549-34C2E7C9B40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B67357-692A-4B6A-A95D-558E702FA118}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.exe
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.deps.json
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSo
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\ref\InterfacesMinhaSolucaoDoExercicio.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\bin\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\refint\InterfacesMinhaSolucaoDoExercicio.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\InterfacesMinhaSolucaoDoExercicio.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfacesMinhaSolucaoDoExercicio\InterfacesMinhaSolucaoDoExercicio\obj\Debug\net8.0\ref\InterfacesMinhaSolucaoDoExercicio.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

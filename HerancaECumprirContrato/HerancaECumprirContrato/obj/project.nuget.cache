@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "nNBxH2UAu9+5cAihyMkspWmCgAvEltPM2mP91KXwP5eJ8PHlvU01SHo5uOuXirMEHcjHGp9MkscilqIGbsokjA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaECumprirContrato\\HerancaECumprirContrato\\HerancaECumprirContrato.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "nNBxH2UAu9+5cAihyMkspWmCgAvEltPM2mP91KXwP5eJ8PHlvU01SHo5uOuXirMEHcjHGp9MkscilqIGbsokjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\HerancaECumprirContrato\\HerancaECumprirContrato\\HerancaECumprirContrato.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "gJ2twbe3fXJabvpVxWnGBXE5QI0JEbvoLGq/X7+mXJ/0C8UdxA07kGwVMyLIOndh7OsEsUa3Rz/4sAbbH9wDnA==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "DcnWUICZnoiqHKdHN5d5RbxTJh0l+Hdz/uhAraFjXhGNYbfNfY4fEcEEkflfQjKqKiZ1gDw1GSNTNPU58mFQJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\001-MyMind\\Studies-in-C--main\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01\\ExcecoesPersonalizadas01.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0
 }

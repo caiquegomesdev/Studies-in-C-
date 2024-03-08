@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\bin\Debug\net8.0\InterfaceIComparable01.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\bin\Debug\net8.0\InterfaceIComparable01.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\bin\Debug\net8.0\InterfaceIComparable01.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\bin\Debug\net8.0\InterfaceIComparable01.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\bin\Debug\net8.0\InterfaceIComparable01.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\refint\InterfaceIComparable01.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\InterfaceIComparable01.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\InterfaceIComparable01\InterfaceIComparable01\obj\Debug\net8.0\ref\InterfaceIComparable01.dll

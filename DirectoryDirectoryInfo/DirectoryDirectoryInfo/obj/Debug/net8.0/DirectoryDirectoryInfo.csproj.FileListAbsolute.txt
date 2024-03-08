@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.exe
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.deps.json
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirector
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\ref\DirectoryDirectoryInfo.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\bin\Debug\net8.0\DirectoryDirectoryInfo.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\refint\DirectoryDirectoryInfo.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\DirectoryDirectoryInfo.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\DirectoryDirectoryInfo\DirectoryDirectoryInfo\obj\Debug\net8.0\ref\DirectoryDirectoryInfo.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

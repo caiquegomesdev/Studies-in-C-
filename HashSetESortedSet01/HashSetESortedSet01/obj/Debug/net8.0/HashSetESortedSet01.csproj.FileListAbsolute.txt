@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\bin\Debug\net8.0\HashSetESortedSet01.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\bin\Debug\net8.0\HashSetESortedSet01.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\bin\Debug\net8.0\HashSetESortedSet01.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\bin\Debug\net8.0\HashSetESortedSet01.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\bin\Debug\net8.0\HashSetESortedSet01.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\refint\HashSetESortedSet01.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\HashSetESortedSet01.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HashSetESortedSet01\HashSetESortedSet01\obj\Debug\net8.0\ref\HashSetESortedSet01.dll

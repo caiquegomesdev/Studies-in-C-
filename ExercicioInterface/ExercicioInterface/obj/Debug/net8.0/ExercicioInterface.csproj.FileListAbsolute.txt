@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfoInputs.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfo.cs
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterfac
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ref\ExercicioInterface.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\bin\Debug\net8.0\ExercicioInterface.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\refint\ExercicioInterface.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioInterface\ExercicioInterface\obj\Debug\net8.0\ref\ExercicioInterface.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

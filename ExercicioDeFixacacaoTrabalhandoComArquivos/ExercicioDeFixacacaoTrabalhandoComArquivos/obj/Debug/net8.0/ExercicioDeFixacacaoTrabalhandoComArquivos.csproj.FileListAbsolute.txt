@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.exe
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.deps.json
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixaca
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ref\ExercicioDeFixacacaoTrabalhandoComArquivos.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\bin\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\refint\ExercicioDeFixacacaoTrabalhandoComArquivos.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ExercicioDeFixacacaoTrabalhandoComArquivos.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioDeFixacacaoTrabalhandoComArquivos\ExercicioDeFixacacaoTrabalhandoComArquivos\obj\Debug\net8.0\ref\ExercicioDeFixacacaoTrabalhandoComArquivos.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

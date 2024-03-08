@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.exe
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.deps.json
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEO
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\ref\HerancaMultiplaEOProblema.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\bin\Debug\net8.0\HerancaMultiplaEOProblema.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\refint\HerancaMultiplaEOProblema.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\HerancaMultiplaEOProblema.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaMultiplaEOProblema\HerancaMultiplaEOProblema\obj\Debug\net8.0\ref\HerancaMultiplaEOProblema.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

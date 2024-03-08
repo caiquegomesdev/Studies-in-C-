@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.exe
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.deps.json
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirCo
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\ref\HerancaECumprirContrato.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\bin\Debug\net8.0\HerancaECumprirContrato.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\refint\HerancaECumprirContrato.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\HerancaECumprirContrato.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\HerancaECumprirContrato\HerancaECumprirContrato\obj\Debug\net8.0\ref\HerancaECumprirContrato.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0

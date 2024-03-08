@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.exe
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.deps.json
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.runtimeconfig.json
@@ -13,3 +14,20 @@ C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoU
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.pdb
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.genruntimeconfig.cache
 C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\ref\BlocoUsing.dll
+=======
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\bin\Debug\net8.0\BlocoUsing.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\refint\BlocoUsing.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\BlocoUsing.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\BlocoUsing\BlocoUsing\obj\Debug\net8.0\ref\BlocoUsing.dll
+>>>>>>> 1ca3199ed7d57dfcdade365a5d625c1855f8c4d0
