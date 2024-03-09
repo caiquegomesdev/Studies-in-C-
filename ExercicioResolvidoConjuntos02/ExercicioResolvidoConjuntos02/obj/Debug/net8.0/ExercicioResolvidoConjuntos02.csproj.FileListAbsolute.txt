@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\bin\Debug\net8.0\ExercicioResolvidoConjuntos02.exe
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\bin\Debug\net8.0\ExercicioResolvidoConjuntos02.deps.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\bin\Debug\net8.0\ExercicioResolvidoConjuntos02.runtimeconfig.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\bin\Debug\net8.0\ExercicioResolvidoConjuntos02.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\bin\Debug\net8.0\ExercicioResolvidoConjuntos02.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.AssemblyInfo.cs
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.sourcelink.json
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\refint\ExercicioResolvidoConjuntos02.dll
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.pdb
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ExercicioResolvidoConjuntos02.genruntimeconfig.cache
+C:\Users\Administrator\Documents\001-MyMind\Studies-in-C--main\ExercicioResolvidoConjuntos02\ExercicioResolvidoConjuntos02\obj\Debug\net8.0\ref\ExercicioResolvidoConjuntos02.dll
