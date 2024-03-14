@@ -1,4 +1,4 @@
-﻿namespace Predicate.Entities
+﻿namespace PredicateExemploComRemoveAll.Entities
 {
     class Product
     {

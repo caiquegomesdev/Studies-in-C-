@@ -1,8 +1,8 @@
 ﻿using System;
-using Predicate.Entities;
+using PredicateExemploComRemoveAll.Entities;
 using System.Collections.Generic;
 
-namespace Predicate
+namespace PredicateExemploComRemoveAll
 {
     class Program
     {
